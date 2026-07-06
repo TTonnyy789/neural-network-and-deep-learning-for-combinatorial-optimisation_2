@@ -13,7 +13,7 @@ and **~0.93 AUC** on held-out test data.
 ## The Problem
 
 A auto carrier visits a sequence of stops. At each stop some vehicles are loaded
-onto one of three layered decks (d1 / d2 / d3) and some vehicles are unloaded.
+onto one of four layered decks (d1 / d2 / d3 / d4) and some vehicles are unloaded.
 A loading plan is **feasible** if:
 
 - deck capacity constraints are never violated at any stop, and
