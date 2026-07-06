@@ -1,4 +1,4 @@
-# GNN Feasibility Screening for the Auto Carrier Loading Problem
+# How to Load an Auto Carrier? Use Deep Graph Neural Networks to Classify Feasible Problem Instances
 
 MSc dissertation project (The University of Manchester / Satalia, 2024).
 
